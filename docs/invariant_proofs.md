@@ -1,5 +1,7 @@
 # Formal Invariant Proofs
 
+<!-- Last Updated: Cycle 3 Completion -->
+
 ## 1. Resistance to Retroactive Mutation
 **Invariant:** History $H$ at time $t$ is immutable.
 **Logical Proof:**

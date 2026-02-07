@@ -4,6 +4,7 @@
 **From:** Architecture Team
 **Date:** Cycle 3 Completion
 **Subject:** Final Delivery of Core Primitives
+<!-- Last Updated: Cycle 3 Complete -->
 
 ## Status Summary
 All three cycles (State, Measurement, Causality) have been executed and sealed. The system is operational as a reference implementation in Python.
